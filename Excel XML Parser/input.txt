@@ -1,0 +1,21 @@
+<ss:Workbook>
+	<ss:Styles>
+		<ss:Style ss:ID="s123"></ss:Style>
+		<ss:Style ss:ID="s133"></ss:Style>
+	</ss:Styles>
+<!-- This is a comment -->
+	<ss:Worksheet ss:Name="sheet1">
+		<ss:Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="1" >
+			<ss:Column ss:StyleID="s123" />
+			<ss:Column ss:StyleID="s123"/>
+			<ss:Row>
+				<ss:Cell>
+					<ss:Data ss:Type="Number">1234</ss:Data> 
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">Test</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+		</ss:Table>
+   </ss:Worksheet>
+</ss:Workbook>
