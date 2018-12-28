@@ -4,7 +4,7 @@ A simple parser made for excel xml files.
 
 ## Installing
 
-Just run the makefile
+Run the makefile
 
 ## Usage
 ```
