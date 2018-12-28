@@ -1,2 +1,2 @@
 # uni-projects
-Some of my projects for university.
+Some of my university projects.
