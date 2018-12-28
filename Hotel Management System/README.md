@@ -1,10 +1,12 @@
 # Hotel Management System
 
+Simple hotel management System
 Project for C++ Course.
+User can add bookings to rooms, view and delete bookings.
 
 ## Compiling
 
-Compile like any other simple C++ project.
+For a successful compilation, use the C++11 compiler.
 
 ## Usage
-Run the file and use the menu.
+Execute and use the main menu.
